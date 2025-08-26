@@ -1,42 +1,46 @@
-
 <h1 align="center">Hi there, I'm Ayanfe Yussuf</h1>  
-<p align="center">Data Scientist | Data & AI Enthusiast | AI & Automation Explorer | Finance, Sports & Healthcare Insights | Lifelong Learner</p>  
+<p align="center">Data Scientist | Business Analyst | Data & AI Enthusiast | AI & Automation Explorer | Finance, Sports & Healthcare Insights | Lifelong Learner</p>  
 
 ---
 
-Welcome to my GitHub! I’m passionate about transforming **data into actionable insights** and building intelligent systems that solve real-world problems.  
-My interests span across **Data Science, Artificial Intelligence, and Automation**, with applications in **Finance, Sports, and Healthcare Analytics**.  
+Welcome to my GitHub! I’m passionate about transforming **data into actionable insights**, driving **business decisions**, and building intelligent systems that solve real-world problems.  
+My expertise lies at the intersection of **data science, business analysis, and AI automation**, with domain applications in **finance, sports, and healthcare**.  
 
 ---
 
 ### 🔹 About Me  
 - 🎓 Background in **Healthcare & Data Science**  
-- 📊 Experienced in **data analysis, visualization, and statistical modeling**  
+- 📊 Skilled in **business analysis, data visualization, and statistical modeling**  
 - 🤖 Enthusiast in **AI, automation, and intelligent systems engineering**  
-- 🌍 Passionate about applying data-driven insights across **finance, sports, and healthcare**  
-- 📈 Lifelong learner constantly exploring new ways to leverage data for impact  
+- 📝 Experienced in **VMOST Analysis**, **Requirement gathering**, **Gap analysis** and other analysis skills to align business strategy with data-driven solutions  
+- 🌍 Passionate about using **data and business insights** to improve outcomes across industries  
+- 📈 Lifelong learner, always exploring how **data + AI** can empower smarter decision-making  
 
 ---
 
 ### 🛠️ Tools & Technologies  
-- **Data Analysis & ML:** Python (Pandas, NumPy, scikit-learn), SQL  
-- **Visualisation:** Tableau, Power BI, Excel, Matplotlib, Seaborn  
-- **AI & Automation:** Machine Learning workflows, Predictive Modeling, Process Automation, N8N  
-- **Version Control:** Git, GitHub  
+- **Business Analysis & BI:** Excel, Power BI, Tableau, Jira, Confluence, Google Workspace, PowerPoint  
+- **Data Analysis & ML:** Python (Pandas, NumPy, scikit-learn), SQL, Jupyter Notebook  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **AI & Automation:** Machine Learning workflows, Predictive Modeling, Process Automation (n8n)  
+- **Version Control & Collaboration:** Git, GitHub, Trello  
 
 ---
 
 ### 📁 Featured Projects  
-- 💼 **Financial Data Analysis** – Uncovering trends, risks, and insights in financial datasets  
-- 🏥 **Healthcare Analytics Dashboard** – Leveraging data to monitor health outcomes  
+- 💼 **Financial Data Analysis** – Risk assessment and trend analysis in financial datasets  
+- 🏥 **Healthcare Analytics Dashboard** – Monitoring and visualizing healthcare outcomes  
 - ⚽ **Sports Performance Analysis** – Using data science to track player and team performance  
+- 📊 **Business Insights Reports (BI/BA)** – Power BI dashboards and Excel-based KPI reports  
+- 📝 **Requirement & Gap Analysis Cases** – Business need identification, solution mapping, and impact assessment  
 
 ---
 
 ### 🚀 Currently Exploring  
-- Advanced machine learning & time-series forecasting  
-- AI-driven automation for real-world applications  
-- Data storytelling and visualization best practices  
+- Advanced **SQL** for business intelligence  
+- **Time series forecasting** and financial modeling  
+- **AI-driven automation** for smarter workflows  
+- Business storytelling, VMOST alignment, and data-driven strategy  
 
 ---
 
@@ -45,7 +49,7 @@ My interests span across **Data Science, Artificial Intelligence, and Automation
 - 📝https://x.com/MuryMartian
 - 📧 ayanfe.yussuf007@gmail.com
 
+
 ---
 
-<p align="center">Always learning. Always building. Always exploring the future of Data & AI 🚀</p>
-
+<p align="center">Always learning. Always building. Always exploring the future of Data, AI & Business Insights 🚀</p>
